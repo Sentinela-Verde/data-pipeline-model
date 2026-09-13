@@ -133,6 +133,13 @@ python step_classificacao_obra_300m.py
 python deteccao_fases_obra_300m.py
 ```
 
+## Terceiro teste paralelo: Sentinel-2 em vez de Landsat
+
+Existe também um fluxo inteiro à parte trocando o sensor (Sentinel-2, resolução nativa 10m
+em vez de 30m) — ver [`extract/imagens_satelite/sentinel2/README.md`](../sentinel2/README.md).
+Mesma amostra de referência, mesma lógica de classificação e de fases, saída em pastas
+próprias — não toca em nada deste README nem dos scripts acima.
+
 ## Saídas (`data/raw/imagens_satelite_landsat/`)
 
 - `<nome_datacenter>_<ano>.tif` — um GeoTIFF por (ponto, ano), bandas

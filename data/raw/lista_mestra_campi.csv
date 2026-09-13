@@ -1,0 +1,613 @@
+campus_id,pais,lat,lon,n_predios,nome,operadora,municipio,uf,ano_operacional,fonte,origem_data,no_estudo_atual,tem_data
+br-0001,BR,-23.57126425,-46.61943725,2,Data Center Marechal Rondon,Brazilian Army,Sao Paulo,,2015.0,datacentermap,declarada_datacentermap,False,True
+br-0002,BR,-22.70650052424456,-43.23743247257072,1,ADA Rio de Janeiro,Ada Infrastructure,Duque de Caxias,,,datacentermap,,False,False
+br-0003,BR,-30.016501955502555,-51.20388801034021,10,Adentro DC Porto Alegre,ADENTRO DATA CENTER SOLUTIONS LTDA,Porto Alegre,Rio Grande do Sul,2023.0,datacentermap,declarada_datacentermap,True,True
+br-0004,BR,-18.9209149,-48.3090492,1,Algar Tech Uberlandia - Jaraguá,Algar Tech,Uberlandia,MG,,datacentermap,,False,False
+br-0005,BR,-18.8725131,-48.2451629,1,Algar Tech Uberlandia - Granja Marileusa,Algar Tech,Uberlandia,Minas Gerais,,datacentermap,,False,False
+br-0006,BR,-22.799210861157988,-43.35303072747805,11,ODATA RJ01,"ODATA, an Aligned Data Centers Company",São João de Meriti,,2017.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0007,BR,-23.454099410584774,-46.91251924279884,4,ODATA SP01,"ODATA, an Aligned Data Centers Company","Votuparim, Santana de Parnaíba",,2017.0,datacentermap+osm,declarada_datacentermap,False,True
+br-0008,BR,-22.897653328539317,-47.18764527108291,13,ODATA SP02 Campus,"ODATA, an Aligned Data Centers Company","Chácaras Assay, Hortolândia",,2015.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0009,BR,-23.49739806407384,-46.81541396120501,20,ODATA SP03,"ODATA, an Aligned Data Centers Company","Tamboré, Barueri",,2000.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0010,BR,-3.7434239996938508,-38.4582846484485,10,AngoNAP Fortaleza,Angola Cables,Fortaleza,,2025.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0011,BR,-27.1076999,-48.9186753,1,Armazem DC Brusque,Armazém Cloud,Brusque,,,datacentermap,,False,False
+br-0012,BR,-26.2392368,-48.88348435,2,Armazem DC Joinville,Armazém Cloud,Joinville,,,datacentermap+osm,,False,False
+br-0013,BR,-23.6756459307653,-46.70346926575303,2,ASAP SP1,ASAP Telecom,São Paulo,SP,2022.0,datacentermap,declarada_datacentermap,False,True
+br-0014,BR,-22.848037,-47.153369,1,Ascenty - Campinas CPS1,Ascenty Data Centers,Campinas,,,datacentermap,,False,False
+br-0015,BR,-23.1922104,-46.973600149999996,2,Ascenty - Jundiai JDI1,Ascenty Data Centers,Jundiaí,Jundiaí,2014.0,datacentermap,declarada_datacentermap,True,True
+br-0016,BR,-23.489837789734967,-46.775190740131784,16,Ascenty Sao Paulo Capital Campus,Ascenty Data Centers,Osasco,,2017.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0017,BR,-22.814140059036248,-47.21234334271967,6,Ascenty - Sumare SUM3,Ascenty Data Centers,Sumaré,,2017.0,datacentermap,declarada_datacentermap,True,True
+br-0018,BR,-23.07021418257807,-47.012388798153346,3,Ascenty - Vinhedo VIN2,Ascenty Data Centers,Vinhedo,,,datacentermap,,True,False
+br-0019,BR,-19.942833,-44.011552,1,Sonda Ativas,Sonda S.A.,Belo Horizonte,MG,2011.0,datacentermap,declarada_datacentermap,False,True
+br-0020,BR,-26.26412048317817,-48.85177190343191,1,Avato Joinville,Ávato,Joinville,,2012.0,datacentermap,declarada_datacentermap,False,True
+br-0021,BR,-23.464507775455093,-46.85978844276293,9,B3 Data Center,"B3 S.A. – Brasil, Bolsa, Balcão",Santana de Parnaiba,,2006.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0022,BR,-27.00188405,-51.167537749999994,2,BRDrive Data Center,BRDrive,Videira,,2015.0,datacentermap,declarada_datacentermap,False,True
+br-0023,BR,-3.653321,-38.8251428,1,Pecém Data Center,Casa dos Ventos,São Gonçalo do Amarante,,2027.0,datacentermap,declarada_datacentermap,False,True
+br-0024,BR,-20.810385699999998,-49.38575485,2,CDZNet Data Center,cdznet data center,Sao Jose do Rio Preto,SP,,datacentermap,,False,False
+br-0025,BR,-19.9305832,-44.0614069,1,Century CEM-DC01,Century Telecom LTDA,Contagem,Minas Gerais,,datacentermap,,False,False
+br-0026,BR,-25.47028165,-49.350796599999995,2,Cirion CUR1,Cirion,Curitiba,Paraná,2025.0,datacentermap,declarada_datacentermap,False,True
+br-0027,BR,-22.90726045218103,-43.20859016648712,6,Cirion RIO2,Cirion,Rio de Janeiro,,2001.0,datacentermap,declarada_datacentermap,False,True
+br-0028,BR,-23.54195739494818,-46.70931247916715,1,Claro Data Center LAPA,Claro,São Paulo,,2012.0,datacentermap,declarada_datacentermap,False,True
+br-0029,BR,-3.0555021,-59.990213350000005,2,ClickIP Datacenters,ClickIP Datacenters,Manaus,AMAZONAS,,datacentermap+osm,,True,False
+br-0030,BR,-22.77117479857385,-47.10460292143075,8,CloudHQ GRU Campus,CloudHQ,Paulínia,,,datacentermap+osm,,False,False
+br-0031,BR,-23.60026564209321,-46.6882332139399,6,ADA Sao Paulo,Ada Infrastructure,Sao Paulo,,1990.0,datacentermap,declarada_datacentermap,False,True
+br-0032,BR,-24.94369305,-53.44573055,2,Constel Cascavel Centro,Constel Tecnologia,Cascavel,Parana,,datacentermap,,False,False
+br-0033,BR,-28.9420155,-49.4979287,1,Contato Data Center,Contato Data Center,Araranguá,Santa Catarina,,datacentermap,,False,False
+br-0034,BR,-21.1852257,-47.8081915,1,Convex IDC Ribeirão Preto,Convex Internet Solutions,Ribeirao Preto,SP,,datacentermap,,False,False
+br-0035,BR,-15.85834223206172,-47.89905002324178,1,COPE-P Brasilia,Telebras,Brasília,,,datacentermap,,False,False
+br-0036,BR,-22.82647149440208,-43.17830367112702,1,COPE-S Rio de Janeiro,Telebras,Rio de Janeiro,,,datacentermap,,False,False
+br-0037,BR,-25.449630417898035,-49.25978588386846,2,CWB-HN 01,Hosting Now,Curitiba,Paraná,2011.0,datacentermap,declarada_datacentermap,False,True
+br-0038,BR,-23.64790284580196,-46.724367954992566,5,Locaweb Data Center Itapaiuna,Locaweb S/A,Sao Paulo,São Paulo,2001.0,datacentermap,declarada_datacentermap,False,True
+br-0039,BR,-29.6957946,-53.7978236,1,Avato Santa Maria,Ávato,Santa Maria,RS,,datacentermap,,False,False
+br-0040,BR,-3.7344285,-38.5049194,1,Ultranet Telecom DC Fortaleza,Ultranet Telecom,Fortaleza,Aldelota,,datacentermap,,False,False
+br-0041,BR,-22.817232040312035,-47.03429181545609,3,Edge Connection - CPS01,Edge Connection,Campinas,Sao Paulo,2027.0,datacentermap,declarada_datacentermap,False,True
+br-0042,BR,-1.41264568658525,-48.48808399344105,1,Elea BEL1,Elea Data Centers,Belém,,2027.0,datacentermap,declarada_datacentermap,False,True
+br-0043,BR,-15.790905491638929,-47.900020274939244,8,Elea BSB1,Elea Data Centers,Brasilia,DF,,datacentermap+osm,,False,False
+br-0044,BR,-25.4247684,-49.2811411,1,Elea CTA1,Elea Data Centers,Curitiba,Paraná,,datacentermap,,False,False
+br-0045,BR,-22.96606674654497,-43.379707629368966,6,Elea RJO1,Elea Data Centers,Rio de Janeiro,Rio de Janeiro,2016.0,datacentermap+osm,declarada_datacentermap,False,True
+br-0046,BR,-23.6774468,-46.5725548,1,Elea SPO2,Elea Data Centers,São Bernardo do Campo,,,datacentermap,,False,False
+br-0047,BR,-23.5013594,-46.8473233,1,Elea SPO3,Elea Data Centers,Barueri,,2001.0,datacentermap,declarada_datacentermap,False,True
+br-0048,BR,-2.956195978406484,-41.76979620360595,1,Enegix Piauí,Enegix,Parnaíba,,,datacentermap,,False,False
+br-0049,BR,-22.95490599063348,-43.19455146789551,1,Equinix RJ1,Equinix,Rio de Janeiro,Rio de Janeiro,,datacentermap,,False,False
+br-0050,BR,-22.87137855333288,-43.2732268757782,2,Equinix RJ2,Equinix,Rio de Janeiro,Rio de Janeiro,2013.0,datacentermap+osm,declarada_datacentermap,False,True
+br-0051,BR,-23.54075605528237,-46.64182414368782,2,Equinix SP1,Equinix,São Paulo,SP,1998.0,datacentermap,declarada_datacentermap,False,True
+br-0052,BR,-16.68937263321776,-49.24135147797131,1,Everest Digital Data Center,Everest Digital,Goiânia,,,datacentermap,,True,False
+br-0053,BR,-26.96268155,-52.52833685,2,FERENZ NETWORKS SERVIÇOS DE INTERNET LTDA,Ferenz Networks,Xaxim,SC,2004.0,datacentermap,declarada_datacentermap,False,True
+br-0054,BR,-23.4177519,-51.937414950000004,2,GetTI Data Center,GetCard Provedora de Transações Eletrônicas,Maringa,Parana,1995.0,datacentermap,declarada_datacentermap,False,True
+br-0055,BR,-20.070645,-44.5765583,1,GOX DATA CENTER LTDA,GOX DATA CENTER LTDA,Itaúna,MG,,datacentermap,,False,False
+br-0056,BR,-23.456573,-46.537871,1,Vivo São Paulo - Guarulhos Data Center,Vivo,Guarulhos,São Paulo,2011.0,datacentermap,declarada_datacentermap,False,True
+br-0057,BR,-15.7980495,-47.9500677,1,Hasest SIA,Hasest,Brasilia,DF,,datacentermap,,False,False
+br-0058,BR,-7.115262,-34.880473,1,HostDime Brazil (João Pessoa),HostDime Global Corp,João Pessoa,Paraiba,2017.0,datacentermap,declarada_datacentermap,True,True
+br-0059,BR,-23.59791925,-46.84881245,2,HostDime Brazil (São Paulo),HostDime Global Corp,Cotia,,2013.0,datacentermap,declarada_datacentermap,False,True
+br-0060,BR,-3.781561141089867,-38.55193468110386,1,Hostweb Fortaleza,Hostweb,Fortaleza,,,datacentermap,,False,False
+br-0061,BR,-7.2280191,-35.8828993,1,Hostzone CGE1,Hostzone,Campina Grande,Paraiba,,datacentermap,,False,False
+br-0062,BR,-8.055152,-34.9105355,1,HOTlink Internet Data Center,hotlink internet ltda,Recife,Pernambuco,,datacentermap,,False,False
+br-0063,BR,-25.4598581,-49.2889804,1,Hunti CTA1,Hunti Data,Curitiba,Paraná,,datacentermap,,False,False
+br-0064,BR,-10.1875328,-48.340776,1,IDX Data Centers & IT Services,IDX Data Centers & IT Services,Palmas,Tocantins,2022.0,datacentermap,declarada_datacentermap,False,True
+br-0065,BR,-3.8307848166666667,-38.61124551666666,6,IPXON Fortaleza,IPXON Networks,Fortaleza,,2015.0,datacentermap+osm,declarada_datacentermap,True,True
+br-0066,BR,-22.91115381612668,-47.06251490681609,2,Local DC Campinas,Local DC,Campinas,,2025.0,datacentermap,declarada_datacentermap,False,True
+br-0067,BR,-30.0121095,-51.1432885,1,Maila Networks - DC2 ,Maila Networks,Porto Alegre,Rio Grande do Sul (RS),,datacentermap,,False,False
+br-0068,BR,-19.9408887,-43.9240841,1,Master da Web,Master da Web,Belo Horizonte,Minas Gerais,,datacentermap,,False,False
+br-0069,BR,-23.5799648,-46.6410651,1,Latitude.sh SAO,Latitude.sh,Sao Paulo,SP,2016.0,datacentermap,declarada_datacentermap,False,True
+br-0070,BR,-22.8453232,-47.2355628,1,Microsoft Hortolandia,Microsoft,Hortolândia,,,datacentermap,,False,False
+br-0071,BR,-23.4841697,-46.7142191,1,Microsoft Sao Paulo,Microsoft,Sao Paulo,,,datacentermap,,False,False
+br-0072,BR,-22.8787486,-47.2446609,1,Microsoft Taquara Branca,Microsoft,Hortolândia,,,datacentermap,,False,False
+br-0073,BR,-24.5647801,-54.05378289999999,1,MiniDC MCR1,MiniDC by tryideas,Mal. Cândido Rondon,,,datacentermap,,False,False
+br-0074,BR,-25.49543025558597,-49.32874498873221,1,NextStream Curitiba,NextStream,Curitiba,,,datacentermap,,False,False
+br-0075,BR,-21.3374876,-47.7344121,1,NICNET - Cravinhos - Data Center,Nicnet Telecom Ltda,Cravinhos,São Paulo,2025.0,datacentermap,declarada_datacentermap,False,True
+br-0076,BR,-20.2226002,-40.2710429,1,NUV Datacenter - NUV1,NUV Datacenter,Serra,,,datacentermap,,False,False
+br-0077,BR,-20.3137649,-40.2941776,1,NUV Datacenter - NUV2,NUV Datacenter,Vitória,,,datacentermap,,False,False
+br-0078,BR,-29.93029341315945,-51.10729266012558,1,Parks Data Center Cachoeirinha,Parks S/A Comunicações Digitais,Cachoeirinha,,2026.0,datacentermap,declarada_datacentermap,False,True
+br-0079,BR,-5.106522106753856,-42.81234212673621,1,Piauí Link Data Center,ETIPI - PI,Teresina,,,datacentermap,,False,False
+br-0080,BR,-10.9162733,-37.0493841,1,PIX G8 Aracaju,Megatelecom,Aracaju,,,datacentermap,,False,False
+br-0081,BR,-16.714315,-49.26494839999999,1,PIX G8 Goiania,Megatelecom,Goiânia,,,datacentermap,,False,False
+br-0082,BR,-3.1153562,-60.01181150000001,1,PIX G8 Manaus,Megatelecom,Manaus,,,datacentermap,,False,False
+br-0083,BR,-23.5042049,-46.6803806,1,QNAX Data Center,QNAX Data Center,São Paulo,São Paulo,,datacentermap,,False,False
+br-0084,BR,-29.9040072,-51.1283808,1,Quântico Data Center,Quântico Data Center,Canoas,Rio Grande do Sul (RS),2021.0,datacentermap,declarada_datacentermap,False,True
+br-0085,BR,-22.7970795,-47.1352301,1,Ascenty - Paulinia PLN1,Ascenty Data Centers,Paulínia,,2019.0,datacentermap,declarada_datacentermap,True,True
+br-0086,BR,-23.00337473995276,-43.31882357597351,1,R4C Datacenter,R4C,Barra da Tijuca,RJ,,datacentermap,,False,False
+br-0087,BR,-8.0658641,-34.9880118,1,Atlantic Data Center Recife 1,Atlantic Data Centers,Recife,,,datacentermap,,False,False
+br-0088,BR,-23.4554895,-51.9151828,1,RGK4IT Data Center,RGK4IT,Maringá,,,datacentermap,,False,False
+br-0089,BR,-22.912548333333334,-45.41420166666666,3,RiverHook Village 18 Campus,RiverHook Village 18,Pindamonhangaba,,2029.0,datacentermap,declarada_datacentermap,False,True
+br-0090,BR,-21.1622069,-47.8011541,1,Insidesign Ribeirao Data Center,Insidesign Tecnologia Ltda EPP,Ribeirao Preto,Sao Paulo,,datacentermap,,False,False
+br-0091,BR,-18.94893942693562,-48.33580789389012,1,RT-One Uberlândia,RT-One,Uberlândia,,,datacentermap,,False,False
+br-0092,BR,-30.07425077314578,-51.49400150419427,1,Scala AI City,Scala Data Centers,Eldorado do Sul,,,datacentermap,,False,False
+br-0093,BR,-22.820518550312222,-47.10008408849442,4,Scala Data Centers Campinas Campus,Scala Data Centers,Campinas,,2009.0,datacentermap,declarada_datacentermap,False,True
+br-0094,BR,-23.1718928399839,-46.98692016843353,2,Scala Data Centers SVCPJD01,Scala Data Centers,Jundiaí,,2027.0,datacentermap,declarada_datacentermap,True,True
+br-0095,BR,-15.7111079,-47.9107354,1,Serpro Brasilia,Serpro,Brasília,,2026.0,datacentermap,declarada_datacentermap,False,True
+br-0096,BR,-15.7470383,-47.9233792,1,Sitelbra Data Center,Sitelbra,Brasília,DF,2016.0,datacentermap,declarada_datacentermap,False,True
+br-0097,BR,-22.69018744044072,-47.01333787517029,1,SKY Brasil - Jaguariúna,SKY Brasil,Jaguariúna,,2016.0,datacentermap,declarada_datacentermap,False,True
+br-0098,BR,-8.107035,-34.8907489,1,Surfix Data Center,Surfix Cloud & Data Center,Recife,,,datacentermap,,False,False
+br-0099,BR,-22.986617449999997,-43.4362517,2,TAKODA Rio de Janeiro - RJ1,TAKODA,Rio de Janeiro,,,datacentermap+osm,,False,False
+br-0100,BR,-22.86322251584453,-47.28033038868878,4,TAKODA Sumaré Campus,TAKODA,Sumaré,,2027.0,datacentermap,declarada_datacentermap,False,True
+br-0101,BR,-29.67133054619021,-51.04449783146063,1,Teccloud Campo Bom,Teccloud Stefanini,Campo Bom,,,datacentermap,,False,False
+br-0102,BR,-29.9956142,-51.119042,1,Tecto TPOA1,Tecto Data Centers,Porto Alegre,,2026.0,datacentermap,declarada_datacentermap,False,True
+br-0103,BR,-22.03958351176135,-53.84258222396632,1,Tether Angélica,Tether Limited Inc.,Angélica,,,datacentermap,,False,False
+br-0104,BR,-22.39820517765363,-53.89047238949252,1,Tether Ivinhema,Tether Limited Inc.,Ivinhema,,,datacentermap,,False,False
+br-0105,BR,-10.2048941,-48.3529666,1,TO HOST Data Centers,TO HOST Data Centers,Palmas,Tocantins,2023.0,datacentermap,declarada_datacentermap,False,True
+br-0106,BR,-23.1510828,-45.7828613,1,TSData Eugênio de Melo,TSData,São José dos Campos,,2026.0,datacentermap,declarada_datacentermap,False,True
+br-0107,BR,-21.12686855946254,-42.35765232351934,1,Tyna Host Data Center,Tyna Host Datacenter no Brasil,Muriaé,,,datacentermap,,False,False
+br-0108,BR,-26.819629,-49.2729353,1,Unifique Timbó DC1,Unifique,Timbó,,,datacentermap,,False,False
+br-0109,BR,-19.9636041,-43.9563523,1,VSP Solution Belo Horizonte,VSP Solution,Belo Horizonte,Minas Gerais,,datacentermap,,False,False
+br-0110,BR,-20.3353451,-40.3907822,1,Vix DataCenter,ConectJá Telecomunicações,Cariacica,,,datacentermap,,False,False
+br-0111,BR,-20.0346344,-45.5247215,1,NETWISE EMPRESAS,NETWISE EMPRESAS,Lagoa da Prata,Minas Gerais,2024.0,datacentermap,declarada_datacentermap,False,True
+br-0112,BR,-21.835768078438747,-41.04413666468216,1,Yamna Porto do Açu,Yamna,São João da Barra,,,datacentermap,,False,False
+br-0113,BR,-23.6481937,-46.5283146,1,,,,,,osm,,False,False
+br-0114,BR,-15.7727485,-47.865775,1,Centro de Informática (CPD),,,,,osm,,False,False
+br-0115,BR,-23.89072315,-46.52830855,2,Unidade Técnica de Aeronavegação - REDE (SERRAMAR),INFRAERO;DECA;Governo Federal,,,,osm,,False,False
+br-0116,BR,-12.2025013,-38.9729925,1,Centro de Processamento de Dados - UEFS,Universidade Estadual de Feira de Santana,,,,osm,,False,False
+br-0117,BR,-25.5493757,-48.5469932,1,Oi,,,,,osm,,False,False
+br-0118,BR,-23.5740335,-48.02933245,2,Central telefônica de Itapetininga,Vivo,,,,osm,,False,False
+br-0119,BR,-23.5919533,-48.052507,1,Central telefônica da Vivo,VIVO SA,,,,osm,,False,False
+br-0120,BR,-23.0337455,-44.5485429,1,Datacenter de Mambucaba,Eletronuclear,,,,osm,,False,False
+br-0121,BR,-22.22867766666667,-50.892422333333336,3,Fleetnet,,,,,osm,,False,False
+br-0122,BR,-21.7583385,-41.3175884,1,Centro de Dirigentes Lojistas de Campos dos Goytacazes - CDL,CDL,,,,osm,,False,False
+br-0123,BR,-19.9290328,-43.9786291,1,Data Center (Ministério Público de Minas Gerais),,,,,osm,,False,False
+br-0124,BR,-10.89339765,-37.064276050000004,2,,,,,,osm,,False,False
+us-0001,US,32.8327103,-97.0410284,1,Cyxtera Dallas-Fort Worth Data Center,Cyxtera,,,,osm,,False,False
+us-0002,US,32.8009535,-96.8195234,1,Equinix Infomart,Equinix,,,,osm,,False,False
+us-0003,US,42.3767059,-71.0797577,1,CoreSite BO1,,,,,osm,,False,False
+us-0004,US,34.0581039,-118.2353939,1,USPO Terminal Annex,United States Postal Service,,,,osm,,False,False
+us-0005,US,32.7810298,-96.79653605,2,DataBank,,,,,osm,,False,False
+us-0006,US,39.3038941,-84.3116127,1,CyrusOne Cincinnati-Mason CIN3,CyrusOne,,,,osm,,False,False
+us-0007,US,32.8278941,-117.1299275,1,LightEdge SAN1,,,,,osm,,False,False
+us-0008,US,32.8423554,-117.1694226,1,EdgeConneX San Diego,EdgeConneX,,,,osm,,False,False
+us-0009,US,38.647861925,-121.49154105,4,RagingWire CA2,NTT,,,,osm,,False,False
+us-0010,US,37.241878299999996,-121.78347202500001,4,Equinix SV1,Equinix,,,,osm,,False,False
+us-0011,US,39.2940482,-84.4121132,1,,,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0012,US,34.0810196125,-84.256810675,8,Hewlett-Packard,Flexential,,,,osm,,False,False
+us-0013,US,44.6681065,-74.980582,1,Old Main,Clarkson University,,,,osm,,False,False
+us-0014,US,38.6295109,-90.19679785,2,Netrality Data Centers,,,,,osm,,False,False
+us-0015,US,44.99010425,-93.278475,2,Lumen Minneapolis 3,Verizon,,,,osm,,False,False
+us-0016,US,38.80340635,-77.51056395,2,Equinix DC14,Equinix,,,,osm,,False,False
+us-0017,US,39.1026943,-84.5178996,1,CyrusOne CIN2,CyrusOne,,,,osm,,False,False
+us-0018,US,44.8516116,-93.5988964,1,Flexential Minneapolis - Chaska,Flexential,,,,osm,,False,False
+us-0019,US,39.745401150000006,-104.98751155,2,Pearl Plaza Office Building,,,,,osm,,False,False
+us-0020,US,37.37630155740741,-121.96411151851852,54,Lumen Sunnyvale 1,Lumen Technologies,,,,osm,,False,False
+us-0021,US,44.9712882,-93.2546974,1,Minnesota Gateway Data Center,,,,,osm,,False,False
+us-0022,US,38.9813135,-84.6187219,1,,CyrusOne,,,,osm,,False,False
+us-0023,US,42.32623275,-83.07337275,2,,Verizon Wireless,,,,osm,,False,False
+us-0024,US,43.1436204,-70.9524471,1,,University of New Hampshire,,,,osm,,False,False
+us-0025,US,38.948653,-77.32836075,2,VA3,Digital Realty,,,,osm,,False,False
+us-0026,US,38.952992025,-77.36959905,4,CoreSite Reston Campus VA1,CoreSite,,,,osm,,False,False
+us-0027,US,43.0761287,-70.8080395,1,,FirstLight,,,,osm,,False,False
+us-0028,US,39.0586081,-76.964467,1,Lincoln Rackhouse Maryland,Lincoln Rackhouse,,,,osm,,False,False
+us-0029,US,39.38803605,-84.22160249999999,2,,CyrusOne,,,,osm,,False,False
+us-0030,US,40.7968626,-74.0311403,1,Equinix NY7 Data Center,Equinix,,,,osm,,False,False
+us-0031,US,37.407068699999996,-122.01455734999999,2,Equinix SV4,Equinix,,,,osm,,False,False
+us-0032,US,44.8072109,-93.375385,1,Verizon - Bloomington Network,Verizon,,,,osm,,False,False
+us-0033,US,29.4293706,-98.4869057,1,H5 Data Centers San Antonio,H5 Data Centers,,,,osm,,False,False
+us-0034,US,41.5879926,-93.6310139,1,Aureon,,,,,osm,,False,False
+us-0035,US,35.58851816666667,-81.26247623333333,3,,,,,,osm,,False,False
+us-0036,US,39.0944683,-94.5794418,1,,"Patmos Hosting, Inc.",,,,osm,,False,False
+us-0037,US,41.2407307,-73.1472668,1,Digital Realty New York HVN10,Digital Realty,,,,osm,,False,False
+us-0038,US,41.7721034,-88.2170821,1,Lincoln Rackhouse,,,,,osm,,False,False
+us-0039,US,44.972195,-93.1474731,1,H5 Minneapolis,H5,,,,osm,,False,False
+us-0040,US,33.421036400000006,-112.0378144,2,Iron Mountain Records Storage,Iron Mountain,,,,osm,,False,False
+us-0041,US,37.4458951,-122.160786,1,Equinix SV8,Equinix,,,,osm,,False,False
+us-0042,US,40.0952591,-88.2420314,1,NCSA Petascale Computing Facility,,,,,osm,,False,False
+us-0043,US,39.912797,-83.7236638,1,LexisNexus Springfield,,,,,osm,,False,False
+us-0044,US,33.4938298,-112.07067090000001,2,Lumen,Lumen Technologies,,,,osm,,False,False
+us-0045,US,33.30580835,-111.67170605000001,2,L3Harris Technologies Inc,,,,,osm,,False,False
+us-0046,US,33.6590546,-112.1111595,1,Aligned Energy Data Center,,,,,osm,,False,False
+us-0047,US,38.91422692,-77.21826777999999,5,Lumen McLean,Lumen Technologies,,,,osm,,False,False
+us-0048,US,41.8536916,-87.6182716,1,Lakeside Technology Center,,,,,osm,,False,False
+us-0049,US,33.6846775,-112.0983398,1,Flexential Phoenix - Deer Valley,Flexential,,,,osm,,False,False
+us-0050,US,36.1585898,-95.9886293,1,TierPoint,,,,,osm,,False,False
+us-0051,US,41.3179864,-96.0503485,1,"Union Pacific Jack Koraleski Technology, Research & Development Center",Union Pacific Railroad,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0052,US,40.4513704,-80.1901663,1,DataBank Pittsburgh PIT2,,,,,osm,,False,False
+us-0053,US,34.9954515,-106.6180334,1,Molina Healthcare,Molina Healthcare,,,,osm,,False,False
+us-0054,US,36.0593025,-115.21617425,10,Switch12,Switch,,,,osm,,False,False
+us-0055,US,39.3777781,-77.4115448,1,,,,,,osm,,False,False
+us-0056,US,35.89550135,-81.5471095,2,,,,,,osm,,False,False
+us-0057,US,41.216796450000004,-95.87085834999999,2,,CyrusOne,,,,osm,,False,False
+us-0058,US,37.7888613,-122.39030285,2,360 Spear Street Data Center,Digital Realty,,,,osm,,False,False
+us-0059,US,40.78150614545455,-74.06885602727272,11,Equinix New York Secaucus NY5,Equinix,,,,osm,,False,False
+us-0060,US,39.29484306,-94.67945396,5,Black Rock Financial Management,,,,,osm,,False,False
+us-0061,US,36.2625496,-95.9100413,1,Cherokee Data Center,,,,,osm,,False,False
+us-0062,US,41.79972586,-88.24445878,5,CyrusOne CHI3,CyrusOne,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0063,US,39.5929894,-104.85415471666666,6,Xfinity/Comcast Data Center,Verizon,,,,osm,,False,False
+us-0064,US,39.1744228,-86.5006878,1,IU Data Center,Indiana University,,,,osm,,False,False
+us-0065,US,40.5208169,-74.3472226,1,IO Datacenter,,,,,osm,,False,False
+us-0066,US,40.55120376,-74.45818792,5,DataBank Piscataway EWR2,Barclays,,,,osm,,False,False
+us-0067,US,40.54823415,-74.491943775,4,Optimum,Equinix,,,,osm,,False,False
+us-0068,US,47.4935175375,-122.2911466125,8,Intergate Seattle East Building 2,Sabey Data Centers,,,,osm,,False,False
+us-0069,US,41.8421621,-87.6689315,1,QTS Chicago,Quality Technology Services,,,,osm,,False,False
+us-0070,US,41.8641874,-87.63921015,4,Digital Realty ORD11,Digital Realty,,,,osm,,False,False
+us-0071,US,42.6857078,-71.2086024,1,,TierPoint,,,,osm,,False,False
+us-0072,US,42.6302832,-71.3045615,1,Markley Data Center,Markley Group,,,,osm,,False,False
+us-0073,US,35.1354147,-80.9368313,1,Flexential Charlotte - South,Flexential,,,,osm,,False,False
+us-0074,US,33.3949912,-111.96130245,2,EdgeConneX,EdgeConneX,,,,osm,,False,False
+us-0075,US,33.3446197,-111.8992189,1,Digital Realty Data Center,Digital Realty,,,,osm,,False,False
+us-0076,US,47.6933236,-122.3173172,1,,Comcast,,,,osm,,False,False
+us-0077,US,38.815632416666666,-77.65218508333334,6,Amazon IAD-55,Amazon Web Services,,,,osm,,False,False
+us-0078,US,47.6172853,-122.34477416666668,6,CTI Biopharma,Digital Realty,,,,osm,,False,False
+us-0079,US,37.418381,-121.9431173,1,Dell 350 Holger Way,,,,,osm,,False,False
+us-0080,US,38.7474201,-77.6744649,1,OVH US East Vint Hill,,,,,osm,,False,False
+us-0081,US,41.125017638461536,-104.90204656923076,13,NCAR-Wyoming Supercomputing Center,University Corporation for Atmospheric Research,,,,osm,,False,False
+us-0082,US,45.6296184,-121.2045892,4,Google Data Center The Dalles Oregon,Google,,,,osm,,False,False
+us-0083,US,35.7249921,-78.6623632,1,Segra Data Center,,,,,osm,,False,False
+us-0084,US,43.603442349999995,-96.80197609999999,2,TierPoint Sioux Falls West Data Center,,,,,osm,,False,False
+us-0085,US,40.56385725,-112.04921995000001,2,eBay,,,,,osm,,False,False
+us-0086,US,41.8125627,-87.9728504,1,Equinix Chicago Data CH7,Equinix,,,,osm,,False,False
+us-0087,US,33.416077,-112.0094718,1,PhoenixNAP,,,,,osm,,False,False
+us-0088,US,40.6072081,-74.17403585,2,Merrill Lynch Data Center,Merrill Lynch,,,,osm,,False,False
+us-0089,US,40.71825735,-74.005235,2,32 Avenue of the Americas,,,,,osm,,False,False
+us-0090,US,38.91079035,-77.475531735,20,Digital Realty,Digital Realty,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0091,US,42.6793587,-76.9485811,1,Greenidge Power Plant and Data Center,Greenidge Generation Holdings Inc.,,,,osm,,False,False
+us-0092,US,36.143715575,-115.07869725,4,Verizon,Lumen Technologies,,,,osm,,False,False
+us-0093,US,29.445482575,-98.64378896250001,24,Texas Cryptologic Center,National Security Agency,,,,osm,,False,False
+us-0094,US,33.0955505,-96.68266489999999,2,Evoque Allen DA1,Centersquare,,,,osm,,False,False
+us-0095,US,41.255603625,-95.93153997499999,4,First National Technical Center,First National of Nebraska,,,,osm,,False,False
+us-0096,US,37.6468902,-77.4386952,1,Flexential - Richmond,Flexential,,,,osm,,False,False
+us-0097,US,38.74639855,-77.1912224,2,Amazon Web Services,Amazon Web Services,,,,osm,,False,False
+us-0098,US,38.928276,-77.4258708375,8,Menlo Digital MD-DC1,Amazon Web Services,,,,osm,,False,False
+us-0099,US,34.0362568,-84.3195121,1,Cox Data Center,,,,,osm,,False,False
+us-0100,US,33.777645500000006,-84.42030035,2,QTS Atlanta Data Center 1,Quality Technology Services,,,,osm,,False,False
+us-0101,US,33.6570094,-84.4152195,1,Digital Realty Data Center,Digital Realty,,,,osm,,False,False
+us-0102,US,40.761298800000006,-74.0253849,2,Cyxtera (Digital Realty Trust) Citibank Data Center,Cyxtera,,,,osm,,False,False
+us-0103,US,47.247666275,-119.82088465625,16,Vantage WA11,,,,,osm,,False,False
+us-0104,US,33.9255145,-84.4816338,1,CoreSite AT2 - Marietta Data Center,CoreSite,,,,osm,,False,False
+us-0105,US,37.7236272,-122.3979543,1,Digital Realty San Francisco SFO10,Digital Realty,,,,osm,,False,False
+us-0106,US,43.8252286,-111.7820703,1,VentureData,,,,,osm,,False,False
+us-0107,US,33.4002195,-112.0478786,1,Cogent Data Center,"Cogent Communications, Inc.",,,,osm,,False,False
+us-0108,US,40.6356953,-75.4575733,1,Flexential Allentown Data Center,Flexential,,,,osm,,False,False
+us-0109,US,37.4056857,-121.9162604,1,CoreSite SV2,"CoreSite Real Estate 1656 McCarthy, L.P.",,,,osm,,False,False
+us-0110,US,33.27053866,-111.88312281,10,Digital Realty Phoenix PHX15,Digital Realty,,,,osm,,False,False
+us-0111,US,44.8080471,-93.6363192,3,UHG Data Center,,,,,osm,,False,False
+us-0112,US,42.2167763,-87.9529303,1,VISA,VISA,,,,osm,,False,False
+us-0113,US,35.6724585,-105.9565798,1,John F. Simms Building,SONM,,,,osm,,False,False
+us-0114,US,29.4382791,-98.5065217,1,Lumen San Antonio 2,Lumen Technologies,,,,osm,,False,False
+us-0115,US,44.29429310909091,-120.88152197272728,11,Meta,Meta,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0116,US,45.55518632580645,-122.92276546129033,31,NTT RagingWire DC - Hillsboro,NTT,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0117,US,38.2771906,-85.5072402,1,Flexential Louisville - East,Flexential,,,,osm,,False,False
+us-0118,US,38.242501,-85.733336,1,Flexential Louisville - Downtown,Flexential,,,,osm,,False,False
+us-0119,US,39.9598116,-75.1608332,1,Terminal Commerce Building,,,,,osm,,False,False
+us-0120,US,47.6719149,-117.0959323,1,TierPoint,,,,,osm,,False,False
+us-0121,US,39.275367,-76.62551,1,Baltimore Technology Park,,,,,osm,,False,False
+us-0122,US,47.23895344117647,-119.87546742941176,17,NTT Data Quincy,NTT,,,,osm,,False,False
+us-0123,US,41.5502695,-90.4824093,1,Geneseo Communications Inc,,,,,osm,,False,False
+us-0124,US,41.9053402,-88.2195062,1,,,,,,osm,,False,False
+us-0125,US,39.7171971,-85.941411,1,,Verizon Wireless,,,,osm,,False,False
+us-0126,US,40.6203519,-111.986047,1,Flexential Salt Lake City - South Valley,Flexential,,,,osm,,False,False
+us-0127,US,37.6994753,-121.9037995,1,QES Computers,,,,,osm,,False,False
+us-0128,US,39.0528404,-76.9259248,1,AiNET,,,,,osm,,False,False
+us-0129,US,29.473599126666667,-98.68619841333333,15,Microsoft,Microsoft,,,,osm,,False,False
+us-0130,US,18.446827,-66.0516873,1,,Claro,,,,osm,,False,False
+us-0131,US,40.1244741,-75.4147681,2,Lumen Norristown,Lumen Technologies,,,,osm,,False,False
+us-0132,US,45.5215436,-122.6807041,1,Pittock Block,,,,,osm,,False,False
+us-0133,US,45.5266839,-122.8755048,1,Data Center,Oregon Health & Science University,,,,osm,,False,False
+us-0134,US,39.6124703,-74.32747335,2,AT&T Tuckerton Cable Landing Station (TAT-14),AT&T,,,,osm,,False,False
+us-0135,US,33.13817252,-96.65874792,5,Cisco Allen,CyrusOne,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0136,US,48.75726,-122.4805485,1,CSSNW Bellingham,CSS Communications,,,,osm,,False,False
+us-0137,US,41.99868046470588,-87.9619320882353,17,Digital Realty CH1,Digital Realty,,,,osm,,False,False
+us-0138,US,37.7990205,-122.2825386,1,Digital Realty,Digital Realty,,,,osm,,False,False
+us-0139,US,39.5590312,-104.83554475,2,Flexential Denver - Englewood,Flexential,,,,osm,,False,False
+us-0140,US,42.4476693,-83.2626336,1,EdgeConneX Detroit DET01,EdgeConneX,,,,osm,,False,False
+us-0141,US,30.26122425,-97.72285975,2,Lumen Austin 3,Lumen Technologies,,,,osm,,False,False
+us-0142,US,30.205616544444442,-97.7055263,9,Digital Realty Austin AUS11,CyrusOne,,,,osm,,False,False
+us-0143,US,39.00806804156626,-77.45056935542169,166,Amazon IAD10,Amazon Web Services,,,,osm,,False,False
+us-0144,US,37.47901463333333,-121.92447379999999,3,Hurricane Electric Fremont 1,Hurricane Electric,,,,osm,,False,False
+us-0145,US,41.4321977,-82.7189574,1,,Aligned Data Centers,,,,osm,,False,False
+us-0146,US,30.3428035,-97.6961735,1,Element Critical,,,,,osm,,False,False
+us-0147,US,40.7367304,-74.1738875,1,165 Halsey / Equinix NY1 / Databank EWR1,Tishman,,,,osm,,False,False
+us-0148,US,34.0362041,-84.05938276666667,3,QTS Suwanee Data Center 1,Quality Technology Services,,,,osm,,False,False
+us-0149,US,34.7562396,-92.4447234,1,TierPoint Little Rock,,,,,osm,,False,False
+us-0150,US,33.9547396,-84.1985246,1,Flexential Atlanta - Norcross,Flexential,,,,osm,,False,False
+us-0151,US,47.841809,-122.3016653,1,Centersquare Lynnwood SE1,Centersquare,,,,osm,,False,False
+us-0152,US,38.9873242,-104.78679604999999,2,Walmart Colorado Data Center,Walmart,,,,osm,,False,False
+us-0153,US,41.3383937,-96.02821035,2,Verizon,,,,,osm,,False,False
+us-0154,US,34.7409855,-86.68249235,2,George C. Wallace Alabama Supercomputer Center,Alabama Supercomputer Authority,,,,osm,,False,False
+us-0155,US,33.8507525,-118.3040815,1,Equinix,Equinix,,,,osm,,False,False
+us-0156,US,41.9283557,-87.8592545,1,Digital Realty Chicago ORD12,Digital Realty,,,,osm,,False,False
+us-0157,US,41.2428892,-96.0164591,1,Scott Data Center,,,,,osm,,False,False
+us-0158,US,41.1730115,-96.08413635,2,Fidelity,Fidelity,,,,osm,,False,False
+us-0159,US,33.91837613333333,-118.38576693333334,3,Serverfarm - LAX1,Centurylink,,,,osm,,False,False
+us-0160,US,39.922465,-104.9834252,1,Google - Thornton,Google,,,,osm,,False,False
+us-0161,US,34.04771096666667,-118.2562066,3,DRT LAX10,,,,,osm,,False,False
+us-0162,US,37.48328571176471,-77.24395865882354,17,Meta Henrico Data Center,Bank of America,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0163,US,29.6725909,-82.2999288,1,UF Research Computing Center,University of Florida,,,,osm,,False,False
+us-0164,US,25.7823886,-80.1930798,1,NAP of the Americas,,,,,osm,,False,False
+us-0165,US,25.7975445,-80.2300338,1,,,,,,osm,,False,False
+us-0166,US,41.540186075,-93.82692495,4,Microsoft,Microsoft,,,,osm,,False,False
+us-0167,US,41.66961811428571,-93.5112001,7,Facebook Altoona Data Center 1,Meta,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0168,US,37.36044986666666,-77.32817713333333,3,Virginia Information Technologies Agency,Digital Fortress,,,,osm,,False,False
+us-0169,US,33.705550349999996,-117.84712329999999,2,Xo Communications Colocation Data Center,TPx Communications,,,,osm,,False,False
+us-0170,US,33.7167763,-117.8057759,1,Lumen Technologies,,,,,osm,,False,False
+us-0171,US,47.6542257,-117.4200007,1,Lumen,Lumen Technologies,,,,osm,,False,False
+us-0172,US,43.0672971,-89.436704,1,,,,,,osm,,False,False
+us-0173,US,38.4548439,-77.9781318,1,Equinix CU2,Equinix,,,,osm,,False,False
+us-0174,US,37.3336326,-121.8879639,1,,,,,,osm,,False,False
+us-0175,US,40.828854475,-74.13141734999999,4,BT Radianz: 492 River Road,bt,,,,osm,,False,False
+us-0176,US,40.1570435,-74.101582,1,Manasquan Cable Landing Station (Apollo),Vodafone,,,,osm,,False,False
+us-0177,US,40.8436519,-72.8833757,1,Cable & Wireless Cable Landing Station,,,,,osm,,False,False
+us-0178,US,40.05889307142858,-83.13331965714285,7,Amazon AWS: Hilliard Data Center,Amazon Web Services us-east-2 datacenter,,,,osm,,False,False
+us-0179,US,45.915842318181824,-119.26748548181818,11,Amazon Web Services,Amazon Web Services,,,,osm,,False,False
+us-0180,US,37.399251825,-121.890863725,4,Equinix San Jose SV3,Equinix,,,,osm,,False,False
+us-0181,US,35.31597745,-81.82389515,4,Meta,Meta,,,,osm,,False,False
+us-0182,US,47.40526311538462,-120.20670865384615,13,Intergate Columbia B,Sabey Data Centers,,,2019.0,osm,derivada_dynamic_world,False,True
+us-0183,US,40.538026075,-74.5447977625,8,BNY Mellon Somerset,CyrusOne,,,,osm,,False,False
+us-0184,US,34.1998691,-118.3437888,1,,Centurylink,,,,osm,,False,False
+us-0185,US,39.56805569090909,-119.54233516363637,11,,,,,,osm,,False,False
+us-0186,US,38.254065,-122.2730918,1,Kaiser Data Center,,,,,osm,,False,False
+us-0187,US,32.82257257142857,-96.87360384285715,7,CoreSpace Dallas,CoreSpace,,,,osm,,False,False
+us-0188,US,33.4118402,-112.3640381,6,Stream Data Centers PHX-1,Microsoft,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0189,US,41.0783165,-74.152912,1,NYSE Data Center,nyse,,,,osm,,False,False
+us-0190,US,34.5799784,-118.1140073,1,AT&T,,,,,osm,,False,False
+us-0191,US,38.8026713,-104.5219809,1,,,,,,osm,,False,False
+us-0192,US,45.3187166,-122.7658797,1,Siemens EDA - HDC / Data Center,Siemens Digital Industries Software,,,,osm,,False,False
+us-0193,US,30.0187,-95.8637474,1,,DXC Technology,,,,osm,,False,False
+us-0194,US,41.5063555,-81.683589,1,H5 Data Center,,,,,osm,,False,False
+us-0195,US,30.3314298,-81.6624257,1,Cologix Jacksonville JAX1,,,,,osm,,False,False
+us-0196,US,32.99280433333333,-97.25336605,6,Facebook Fort Worth Datacenter,Meta,,,,osm,,False,False
+us-0197,US,35.1428083,-80.9162228,1,Spectrum Charlotte National Data Center,,,,,osm,,False,False
+us-0198,US,29.415891626666667,-98.79574709333333,15,Microsoft Texas Research Park Campus,Microsoft,,,,osm,,False,False
+us-0199,US,27.9455353,-82.351102,1,Cyxtera Tampa TP1,Cyxtera,,,,osm,,False,False
+us-0200,US,35.0315499,-85.2972523,1,DC Blox Chattanooga,,,,,osm,,False,False
+us-0201,US,32.89600435,-96.9822926,2,QTS Irving - Dallas Data Center Campus,Quality Technology Services,,,,osm,,False,False
+us-0202,US,41.8023406,-88.0948856,1,Centersquare Lisle ORD4 Data Center,Centersquare,,,,osm,,False,False
+us-0203,US,33.3619309,-111.8392899,1,GoDaddy - Gilbert,,,,,osm,,False,False
+us-0204,US,32.7476543,-117.1589538,1,AT&T Center,American Telephone & Telegraph,,,,osm,,False,False
+us-0205,US,36.1405001,-86.7641364,1,,,,,,osm,,False,False
+us-0206,US,33.7651394,-84.3837393,1,CenturyLink,,,,,osm,,False,False
+us-0207,US,40.427371,-80.0425212,1,Expedient Pittsburgh South,Expedient,,,,osm,,False,False
+us-0208,US,33.4212542,-111.8590191,1,Centersquare: Phoenix - (PHX1 - Mesa),Centersquare,,,,osm,,False,False
+us-0209,US,29.996266249999998,-95.56368665,2,,DXC Technology,,,,osm,,False,False
+us-0210,US,42.6879527,-84.6430423,1,Liquid Web,,,,,osm,,False,False
+us-0211,US,42.7053904,-84.6660891,1,"Liquid Web, Inc",,,,,osm,,False,False
+us-0212,US,34.0707004,-84.6759032,1,,,,,,osm,,False,False
+us-0213,US,40.104625375,-82.80629795,4,TJX Corporate Techno,,,,,osm,,False,False
+us-0214,US,32.9948122,-96.7524974,1,Flexential Dallas - Richardson,Flexential,,,,osm,,False,False
+us-0215,US,33.1717958,-96.725505,1,Experian McKinney Data Center,,,,,osm,,False,False
+us-0216,US,40.11578365,-83.00203355,2,,,,,,osm,,False,False
+us-0217,US,38.9235166,-92.2886061,1,Carfax,,,,,osm,,False,False
+us-0218,US,32.8504831,-97.0702974,1,Amazon Web Services,Amazon Web Services,,,,osm,,False,False
+us-0219,US,40.09629159375,-82.74205964375,16,Amazon Web Services  CMH50,Amazon Web Services,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0220,US,30.4211412,-97.591603,1,Thin-nology,,,,,osm,,False,False
+us-0221,US,41.1130924,-73.3886495,1,,CyrusOne,,,,osm,,False,False
+us-0222,US,33.74906435,-84.583474625,4,Google Datacenter - Douglas County,Google,,,,osm,,False,False
+us-0223,US,41.9166409,-87.9177897,3,Microsoft - Azure Datacenter,Microsoft,,,,osm,,False,False
+us-0224,US,38.8721322,-99.3001874,1,Cloud Storage Corp,,,,,osm,,False,False
+us-0225,US,29.8215755,-95.5708004,1,,,,,,osm,,False,False
+us-0226,US,42.9820886,-70.9505947,1,Information Technology Data Center,Phillips Exeter Academy,,,,osm,,False,False
+us-0227,US,47.8224039,-122.2896138,1,Digital Fortress Lynnwood,,,,,osm,,False,False
+us-0228,US,40.48052804,-111.90520182,5,DataBank SLC3,DataBank,,,,osm,,False,False
+us-0229,US,32.9660268625,-96.7128255,8,Rackspace Richardson DFW3,Rackspace,,,,osm,,False,False
+us-0230,US,38.9373924,-94.8623449,2,U.S. Bank National Data Process Center,,,,,osm,,False,False
+us-0231,US,39.8309301,-75.1953233,1,,,,,,osm,,False,False
+us-0232,US,41.2204018,-96.1476408,1,,Verizon Wireless,,,,osm,,False,False
+us-0233,US,28.6174494,-81.3934606,1,,,,,,osm,,False,False
+us-0234,US,33.063586150000006,-80.04145172999999,10,Google,Google,,,,osm,,False,False
+us-0235,US,39.213455,-76.682834,1,TierPoint Baltimore BWI,,,,,osm,,False,False
+us-0236,US,40.4565951,-109.5290169,1,Strata Networks,,,,,osm,,False,False
+us-0237,US,40.5703722,-74.6703296,1,Goldman Sachs,,,,,osm,,False,False
+us-0238,US,38.6365522,-90.2554356,1,Genome Data Center,Washington University in St. Louis,,,,osm,,False,False
+us-0239,US,35.93475975,-78.88081869999999,2,,CyrusOne,,,,osm,,False,False
+us-0240,US,40.581484,-74.5738875,1,365 Bridgewater NJ,,,,,osm,,False,False
+us-0241,US,31.2318987,-85.455834,1,AngelTrax Data Center,AngelTrax Mobile Video Surveillance Solutions,,,,osm,,False,False
+us-0242,US,34.82850208,-106.7803576,5,Meta,Meta,,,,osm,,False,False
+us-0243,US,47.15961223333333,-122.27955793333332,3,Centeris SH2 Build-to-Suit,,,,,osm,,False,False
+us-0244,US,40.1944836,-92.5812336,1,,AT&T,,,,osm,,False,False
+us-0245,US,32.9648939,-80.1012147,1,DartPoints Charleston,DartPoints,,,,osm,,False,False
+us-0246,US,44.0861049,-121.2830411,1,US Signal - OR01 Bend,US Signal,,,,osm,,False,False
+us-0247,US,42.8631424,-87.9778759,1,Expedient Milwaukee,,,,,osm,,False,False
+us-0248,US,43.8951573,-69.9234342,1,Oxford Networks,FirstLight,,,,osm,,False,False
+us-0249,US,40.06002089411765,-82.75845304117648,17,NAO 1/NAO 2,Meta,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0250,US,32.990701925,-96.660291375,12,Aligned  DFW-01,Aligned,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0251,US,29.6581451,-95.4433121,1,Rice Data Center,,,,,osm,,False,False
+us-0252,US,34.9965845,-82.034841,1,DartPoints Spartanburg,DartPoints,,,,osm,,False,False
+us-0253,US,33.4534418,-111.97675635,2,Iron Mountain AZP-2,Iron Mountain,,,,osm,,False,False
+us-0254,US,45.849634925000004,-119.625038675,24,Amazon Web Services,Amazon Web Services,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0255,US,35.049146300000004,-106.5424778,2,HPC,Sandia National Laboratories,,,,osm,,False,False
+us-0256,US,45.7985319,-119.36238680000001,6,Amazon Web Services,Amazon Web Services,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0257,US,36.62521156,-87.26016754,5,Google Montgomery Data Center,Google LLC,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0258,US,33.0872472,-96.8156779,1,DataBank Plano Data Center,DataBank,,,,osm,,False,False
+us-0259,US,29.802893,-95.7553386,1,Skybox Houston One,Skybox,,,,osm,,False,False
+us-0260,US,34.913991100000004,-85.74723916666666,3,Google Jackson County Data Center,Google LLC,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0261,US,40.5798956,-74.5194023,1,PSE&G Delivery Emergency Response Center,PSE&G,,,,osm,,False,False
+us-0262,US,35.2504249,-81.395039,1,T5 Charlotte Campus,,,,,osm,,False,False
+us-0263,US,44.0707955,-92.5221323,1,Epic / Mayo Data Center,,,,,osm,,False,False
+us-0264,US,33.9716849,-96.4028488,1,Choctaw Nation of Oklahoma Data Center,Choctaw Nation of oklahoma,,,,osm,,False,False
+us-0265,US,40.5843719,-74.2433813,1,,,,,,osm,,False,False
+us-0266,US,40.7563065,-111.9548375,1,Flexential Salt Lake City - Downtown,Flexential,,,,osm,,False,False
+us-0267,US,44.9265658,-123.001847,1,Oregon State Data Center,State of Oregon,,,,osm,,False,False
+us-0268,US,26.1900857,-80.1932967,1,Flexential Fort Lauderdale,Flexential,,,,osm,,False,False
+us-0269,US,30.1777082,-95.486593,1,,,,,,osm,,False,False
+us-0270,US,36.2481633,-115.1012553,1,Flexential Las Vegas - North,Flexential,,,,osm,,False,False
+us-0271,US,33.9533733,-98.5247859,1,,,,,,osm,,False,False
+us-0272,US,44.0474074,-121.3285496,1,Fort Rock DC,Fort Rock Data Center,,,,osm,,False,False
+us-0273,US,42.9687271,-83.779585,1,,,,,,osm,,False,False
+us-0274,US,40.5995576,-74.7099684,1,Verizon Branchburg NEC Datacenter,Verizon,,,,osm,,False,False
+us-0275,US,35.766751,-78.7839874,1,iGLASS Networks,,,,,osm,,False,False
+us-0276,US,46.3321316,-113.2926719,1,,,,,,osm,,False,False
+us-0277,US,40.5280718,-74.6828163,1,Vital Records,,,,,osm,,False,False
+us-0278,US,34.0594667,-117.2021665,1,,,,,,osm,,False,False
+us-0279,US,44.2044349,-88.3449304,1,,Involta,,,,osm,,False,False
+us-0280,US,39.1826345,-85.8967042,1,DartPoints Columbus,DartPoints,,,,osm,,False,False
+us-0281,US,42.2353267,-83.4441406,1,,US Signal,,,,osm,,False,False
+us-0282,US,36.215518200000005,-86.78381525,2,Tennessee Processing Center LLC,BNYM,,,,osm,,False,False
+us-0283,US,40.544252,-75.6543772,1,Allentown-TekPark,,,,,osm,,False,False
+us-0284,US,38.2462382,-122.0671844,1,PG&E Datacenter,,,,,osm,,False,False
+us-0285,US,40.9512698,-73.897901,1,,,,,,osm,,False,False
+us-0286,US,40.160755,-74.0530625,1,Wall Township Cable Landing Station,Tata,,,,osm,,False,False
+us-0287,US,42.213902,-83.198214,1,Comcast,Comcast,,,,osm,,False,False
+us-0288,US,36.0326759,-86.63775294999999,2,HCA Information Technology & Services Data Center,,,,,osm,,False,False
+us-0289,US,35.9245097,-86.8556872,1,TierPoint,,,,,osm,,False,False
+us-0290,US,35.9725623,-86.8080418,1,Flexential Brentwood Data Center,,,,,osm,,False,False
+us-0291,US,36.0234892,-86.7916196,1,,,,,,osm,,False,False
+us-0292,US,33.3426083,-111.8409621,1,StrongMind,,,,,osm,,False,False
+us-0293,US,35.8393357,-78.3281352,1,BB&T Data Center,,,,,osm,,False,False
+us-0294,US,41.5165716,-93.70980694166667,12,Microsoft,Microsoft,,,2019.0,osm,derivada_dynamic_world,False,True
+us-0295,US,41.49682850000001,-93.78704014,5,Microsoft,Microsoft,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0296,US,43.074831,-78.944809,1,,Blockfusion,,,,osm,,False,False
+us-0297,US,43.082907718181815,-79.0034254,11,Blockfusion Niagra Falls,,,,,osm,,False,False
+us-0298,US,37.062799,-113.5447485,1,Lumen,Lumen Technologies,,,,osm,,False,False
+us-0299,US,33.4047759,-86.9115651,1,Sungard Systems International,,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0300,US,33.4754208,-111.7191652,1,Myndshift Technologies,,,,2019.0,osm,derivada_dynamic_world,False,True
+us-0301,US,41.7039984,-91.5870781,1,ForceAmp.com,,,,,osm,,False,False
+us-0302,US,35.1766231,-80.92724035,2,TierPoint - Charlotte Data Center,TierPoint,,,,osm,,False,False
+us-0303,US,39.0176781,-78.2909424,1,Middletown Data Center,,,,,osm,,False,False
+us-0304,US,47.8646928,-122.2841532,1,Norma Beach Cable Landing Station,Unity Cable System,,,,osm,,False,False
+us-0305,US,32.0927065,-110.7874236,1,,DirecTV,,,,osm,,False,False
+us-0306,US,36.0575434,-115.0086885,2,Google,Google,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0307,US,32.4419356,-97.06223140000002,3,Google,Google,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0308,US,41.1264338,-96.14492527,10,Meta Sarpy Data center,Meta,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0309,US,39.9891579,-105.0207261,1,JPMorgan Chase,JPMorgan Chase,,,2019.0,osm,derivada_dynamic_world,False,True
+us-0310,US,43.7821763,-89.5748406,1,Marquette-Adams Telephone Coop,,,,,osm,,False,False
+us-0311,US,32.54278775833333,-96.79722153333334,12,Compass Data Center,Google,,,,osm,,False,False
+us-0312,US,42.7454447,-73.7592013,1,Turnkey Internet,,,,,osm,,False,False
+us-0313,US,47.5946162,-117.5371477,1,Iron Mountain,,,,,osm,,False,False
+us-0314,US,38.4626027,-78.8567247,1,DBT Data - Harrisonburg Center,,,,,osm,,False,False
+us-0315,US,41.0917847,-73.5166728,1,amnet Data Center,,,,,osm,,False,False
+us-0316,US,38.93086636666666,-94.76464056666667,3,Data Center Lenexa,TierPoint,,,,osm,,False,False
+us-0317,US,39.05631578,-77.54715072500001,20,Stonewall Creek Business Park,Google,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0318,US,38.95147227857143,-77.52638061428571,28,Amazon IAD62,Amazon Web Services,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0319,US,42.3172742,-111.304246,1,Family History Center,The Church of Jesus Christ of Latter-day Saints,,,,osm,,False,False
+us-0320,US,36.3280739,-83.3767035,1,,,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0321,US,45.837051474999996,-119.691352825,4,Amazon Web Services,Amazon Web Services,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0322,US,39.73181030000001,-104.71036004999999,2,QTS,Quality Technology Services,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0323,US,43.0449439,-78.7492033,1,,,,,,osm,,False,False
+us-0324,US,42.67449275,-87.90762595000001,2,,,,,,osm,,False,False
+us-0325,US,41.5050658,-81.6577764,1,Lumen Cleveland,,,,,osm,,False,False
+us-0326,US,35.1794881,-80.5701825,1,,,,,,osm,,False,False
+us-0327,US,43.0120761,-76.1159253,1,SU Green Data Center,Syracuse University,,,,osm,,False,False
+us-0328,US,35.9934295,-86.4958261,1,Tennessee South Data Center,State of Tennessee,,,,osm,,False,False
+us-0329,US,33.1536001,-117.2388464,1,,,,,,osm,,False,False
+us-0330,US,39.2935593,-76.5517314,1,Johns Hopkins Data Center,,,,,osm,,False,False
+us-0331,US,38.5922987,-121.27744,1,Edgeconnex Data Center,EdgeConneX,,,,osm,,False,False
+us-0332,US,33.44283975,-112.37546735000001,2,Vantage Data Centers,Vantage Data Centers,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0333,US,35.9204203,-86.8155401,1,Flexential Nashville - Franklin,Flexential,,,,osm,,False,False
+us-0334,US,40.5908144,-111.9037856,1,Verizon,,,,,osm,,False,False
+us-0335,US,41.55811665,-93.5279406,2,,,,,,osm,,False,False
+us-0336,US,36.0812515,-95.8541492,1,,,,,,osm,,False,False
+us-0337,US,33.3965617,-112.0001645,1,1GServers,,,,,osm,,False,False
+us-0338,US,32.4982295,-84.8836074,2,DLI ONE,DLI ONE,,,,osm,,False,False
+us-0339,US,28.5779418,-81.5645492,1,E-Foam,,,,,osm,,False,False
+us-0340,US,41.4788147,-72.8010139,1,,,,,,osm,,False,False
+us-0341,US,44.9380753,-123.0337222,1,CenturyLink,CenturyLink,,,,osm,,False,False
+us-0342,US,40.906426350000004,-74.23620324999999,2,,JPMorgan Chase,,,2018.0,osm,derivada_dynamic_world,False,True
+us-0343,US,42.3324601,-122.880426,1,Date Center West - Eugene,"Data Center West, Inc.",,,,osm,,False,False
+us-0344,US,37.4334128,-122.1807076,1,Northwest Data Center and Communications Hub,,,,,osm,,False,False
+us-0345,US,41.7074166,-87.5202329,1,Digital Crossroad,Digital Crossroad,,,,osm,,False,False
+us-0346,US,32.9720407,-97.1567144,1,Verizon Wireless Mew Building,,,,,osm,,False,False
+us-0347,US,38.76012315384615,-77.52815530576923,52,Amazon IAD11,Amazon Web Services,,,2019.0,osm,derivada_dynamic_world,False,True
+us-0348,US,43.0513735,-88.216698,1,Pewaukee Data Center,WE Energies,,,,osm,,False,False
+us-0349,US,36.1829977,-115.0626696,1,CenturyLink,,,,,osm,,False,False
+us-0350,US,33.34727782857143,-111.62324197142857,7,Apple Data Center,Apple Inc.,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0351,US,26.1849937,-80.2868773,1,T-Mobile Everglades MSO Data Center,,,,,osm,,False,False
+us-0352,US,33.5006749,-86.8208315,1,DC Blox Data Center,,,,,osm,,False,False
+us-0353,US,35.2492161,-91.7409058,1,Searcy Information Technologies,City of Searcy,,,,osm,,False,False
+us-0354,US,40.26844076,-112.01683562000001,5,Meta,Meta,,,,osm,,False,False
+us-0355,US,28.2940687,-81.8348651,1,,,,,,osm,,False,False
+us-0356,US,36.059754,-115.1471723,1,DataBank Las Vegas LAS1,DataBank,,,,osm,,False,False
+us-0357,US,31.9726748,-110.3047517,1,,DirecTV,,,,osm,,False,False
+us-0358,US,33.600000075,-83.699413075,4,Meta Stanton Springs Data Center,Meta,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0359,US,40.685569,-111.8850505,1,Flexential Salt Lake City - Millcreek,Flexential,,,,osm,,False,False
+us-0360,US,41.17520956875,-95.8017142625,16,Google,Google,,,,osm,,False,False
+us-0361,US,36.68348543333334,-78.37617986111111,18,,,,,,osm,,False,False
+us-0362,US,34.9957356,-90.03451865,2,xAI Macrohardrr,xAI,,,,osm,,False,False
+us-0363,US,38.7861601,-104.7885828,1,T5@Colorado Springs,,,,,osm,,False,False
+us-0364,US,28.0738698,-82.3683619,1,Flexential Tampa - North,Flexential,,,,osm,,False,False
+us-0365,US,41.0523325,-73.9717745,1,,,,,,osm,,False,False
+us-0366,US,40.7259269,-99.038336,1,Compute North,,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0367,US,33.730880049999996,-84.61366035,2,Flexential Atlanta - Douglasville 1,Flexential,,,,osm,,False,False
+us-0368,US,43.0821786,-79.0307777,1,,US Bitcoin,,,,osm,,False,False
+us-0369,US,39.51148184,-119.48199036000001,5,Tahoe Reno 1,Switch,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0370,US,40.7667963,-111.9202947,1,Flexential Salt Lake City - Fair Park,Flexential,,,,osm,,False,False
+us-0371,US,45.90329245,-119.32040905,4,Amazon Web Services,Amazon Web Services,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0372,US,33.46278045,-111.99735815,2,QTS,Quality Technology Services,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0373,US,40.5114517,-111.8882555,1,FiberState Datacenter,,,,,osm,,False,False
+us-0374,US,38.8105602,-89.9487033,1,,,,,,osm,,False,False
+us-0375,US,39.133687,-76.8514344,1,,,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0376,US,41.7071342,-87.9759559,1,Datacenter (386),UChicago Argonne LLC,,,,osm,,False,False
+us-0377,US,41.988254725000004,-88.00679445,4,NTT Chicago CH1,NTT,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0378,US,44.8771653,-91.9199989,1,,West Wisconsin Telcom,,,,osm,,False,False
+us-0379,US,34.8479877,-86.62658830000001,5,Meta Huntsville Data center,Meta,,,,osm,,False,False
+us-0380,US,41.533389424999996,-93.86344705,4,Microsoft,Microsoft,,,,osm,,False,False
+us-0381,US,40.1522366,-75.4776181,1,Flexential Philadelphia - Collegeville,Flexential,,,,osm,,False,False
+us-0382,US,39.3226289,-94.5964367,2,Meta Data Center,Meta,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0383,US,40.2084622,-74.119242,1,,,,,,osm,,False,False
+us-0384,US,40.1295611,-74.0427733,1,Manasquan Cable Landing Station (TAT-14),Sprint,,,,osm,,False,False
+us-0385,US,40.2392258,-74.3195376,1,Verizon Freehold Data Center,Verizon,,,,osm,,False,False
+us-0386,US,41.14181575,-104.71720515,2,,,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0387,US,41.6672384,-93.45571365,2,Lightedge Des Moines 2,,,,,osm,,False,False
+us-0388,US,41.041059,-80.633078,1,Carrier Services Group,,,,,osm,,False,False
+us-0389,US,35.951045,-86.833406,1,Flexential Nashville - Cool Springs,Flexential,,,,osm,,False,False
+us-0390,US,43.6383333,-89.7214027,1,,,,,,osm,,False,False
+us-0391,US,36.409457825000004,-86.36847625,4,Gallatin Data Center,Meta,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0392,US,30.2156048,-97.6189387,1,Cortex supercomputer,,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0393,US,32.6512011,-97.3196729,1,Novartis,,,,,osm,,False,False
+us-0394,US,32.3096657,-106.7291929,1,,CenturyLink,,,,osm,,False,False
+us-0395,US,36.2218945,-115.1470466,1,Verizon North Las Vegas,Verizon,,,,osm,,False,False
+us-0396,US,41.361071,-81.6327814,1,Involta Independence,,,,,osm,,False,False
+us-0397,US,41.036879166666665,-73.98432836666666,3,Bloomberg Data Center,Bloomberg,,,,osm,,False,False
+us-0398,US,40.04941834,-83.17590764,5,Amazon Web Services,Amazon Web Services,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0399,US,39.8502644,-82.99561425,2,Google,Google,,,,osm,,False,False
+us-0400,US,45.920379159999996,-119.22876466,5,Amazon Web Services,Amazon Web Services,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0401,US,39.72407805,-82.6893317,2,Google,Google,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0402,US,37.3629981,-87.5471512,1,Dynamics Mining,,,,,osm,,False,False
+us-0403,US,41.1826012,-104.0684983,1,Windbreak Cable,,,,,osm,,False,False
+us-0404,US,41.0573837,-81.5219276,1,Involta-Akron,,,,,osm,,False,False
+us-0405,US,38.80199866666667,-77.62126996666666,3,Amazon Web Services,Amazon Web Services,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0406,US,40.11450880769231,-83.20269539230769,13,Amazon Web Services,Amazon Web Services,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0407,US,45.88152753333333,-119.34099233333332,3,Amazon Web Services,Amazon Web Services,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0408,US,45.819323,-119.634157275,4,Amazon Web Services,Amazon Web Services,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0409,US,34.1033836,-84.2149701,1,UPS Data Center,,,,,osm,,False,False
+us-0410,US,41.4428394,-81.8028724,2,T5@Cleveland,T5 Data Centers,,,,osm,,False,False
+us-0411,US,37.6651447,-121.0400334,1,Modesto Junior College West Data Center,Yosemite Community College District,,,,osm,,False,False
+us-0412,US,29.686403,-98.4626475,1,GVTC,GVTC,,,,osm,,False,False
+us-0413,US,32.3413407,-97.7316918,1,MARA Data Center,Marathon Digital Holdings,,,,osm,,False,False
+us-0414,US,41.6677641,-86.4730555,1,Amazon AWS Data Center,,,,,osm,,False,False
+us-0415,US,46.8274678,-92.1304819,1,Ark Duluth Data Center,,,,,osm,,False,False
+us-0416,US,35.329773,-80.7657588,1,Flexential Charlotte - North,Flexential,,,,osm,,False,False
+us-0417,US,29.5801522,-98.5413037,1,,HEB,,,,osm,,False,False
+us-0418,US,41.88938353333333,-88.72649716666666,3,,Meta,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0419,US,41.6168519,-93.9243968,1,Apple,Apple,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0420,US,40.2245343,-83.0457923,1,,,,,,osm,,False,False
+us-0421,US,33.6746067,-78.9438847,1,DC BLOX Myrtle Beach Cable Landing Station,,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0422,US,41.08331823333334,-76.1487468,3,Nautilus Cryptomine,Amazon Web Services,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0423,US,45.1436925,-93.3871189,1,DataBank,,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0424,US,39.3852721,-84.5662844,1,CyrusOne Cincinnati-Hamilton CIN4,CyrusOne,,,,osm,,False,False
+us-0425,US,44.7752235,-122.6159312,1,PTC,Stayton Cooperative Telephone Company,,,,osm,,False,False
+us-0426,US,39.7440482,-93.997376,1,CenturyLink,,,,,osm,,False,False
+us-0427,US,33.3531912,-111.6780726,1,,,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0428,US,41.0631592,-104.7829152,4,,,,,,osm,,False,False
+us-0429,US,36.1686438,-115.1431445,1,Flexential Las Vegas - Downtown,Flexential,,,,osm,,False,False
+us-0430,US,38.737711250000004,-77.826074,2,,,,,2020.0,osm,derivada_dynamic_world,False,True
+us-0431,US,35.0599502,-90.1563819,1,xAI Colossus,xAI,,,,osm,,False,False
+us-0432,US,40.019852424999996,-83.1248104,4,Amazon Web Services,Amazon Web Services,,,,osm,,False,False
+us-0433,US,45.81024934,-119.27056158,5,Amazon Web Services,Amazon Web Services,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0434,US,35.5681349,-95.5124166,1,,,,,2022.0,osm,derivada_dynamic_world,False,True
+us-0435,US,45.1321573,-93.0956156,1,Encompass Minneapolis Facility,Encompass,,,,osm,,False,False
+us-0436,US,44.1892369,-105.6104802,1,,,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0437,US,46.4068846,-105.8206969,1,State of Montana Data Center,State of Montana,,,,osm,,False,False
+us-0438,US,41.34219156666666,-96.08867123333333,3,Google,Google,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0439,US,46.01308254,-98.57294332000001,10,,,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0440,US,32.595466519999995,-90.09482192,5,,,,,,osm,,False,False
+us-0441,US,29.450946966666667,-98.71412526666666,3,,,,,,osm,,False,False
+us-0442,US,32.5498227,-97.0748553,1,Alinged Data Center DFW-03,"Aligned Data Centers, LLC",,,,osm,,False,False
+us-0443,US,38.7861403,-77.5845859,8,VA 4,Digital Realty,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0444,US,44.7346468,-93.06337554999999,2,,,,,,osm,,False,False
+us-0445,US,43.4632388,-116.2701637,2,,,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0446,US,37.6001856,-82.6787687,1,East Kentucky Network Datacenter,,,,2021.0,osm,derivada_dynamic_world,False,True
+us-0447,US,31.1941757,-94.7967665,1,,,,,,osm,,False,False
+us-0448,US,36.3270316,-88.3200731,1,Newrays Two LLC Mining,,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0449,US,29.2930099,-98.3915987,1,Amazon AWS SAT - 12807 Donop,Amazon Web Services,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0450,US,31.1313545,-97.3705741,2,,,,,,osm,,False,False
+us-0451,US,41.69004798571429,-86.46933537142857,7,,,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0452,US,32.50016081,-99.78397213,40,,,,,,osm,,False,False
+us-0453,US,33.45639365,-84.52474355,4,QTS,Quality Technology Services,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0454,US,41.076945699999996,-104.82493604999999,2,,,,,,osm,,False,False
+us-0455,US,36.2821754,-86.7971366,1,Verizon Wireless,,,,,osm,,False,False
+us-0456,US,33.777264,-100.8689012,1,Argo Data Center,,,,,osm,,False,False
+us-0457,US,30.4880189,-97.6725256,1,Switch: The Rock,Switch,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0458,US,37.2784058,-98.5884618,1,,SC,,,,osm,,False,False
+us-0459,US,31.0575233,-97.2982979,1,,,,,2024.0,osm,derivada_dynamic_world,False,True
+us-0460,US,45.5147872,-123.078828,1,Crane DC - Portland,Crane Data Centers Inc.,,,,osm,,False,False
+us-0461,US,45.71021115,-119.823621025,4,Percheron DC,Rowan Green Data LLC,,,,osm,,False,False
+us-0462,US,44.8930062,-74.0728813,1,NYGC Chateaugay,2CRSi,,,,osm,,False,False
+us-0463,US,31.7500067,-106.3099264,1,MDC,,,,,osm,,False,False
+us-0464,US,45.8098277,-119.8589037,1,,amazon web services,,,,osm,,False,False
+us-0465,US,32.411938,-90.19003465,4,Amazon Web Services,Amazon Web Services,,,,osm,,False,False
+us-0466,US,31.53290075,-103.804026975,4,,,,,,osm,,False,False
+us-0467,US,32.3805057,-106.4810659,1,Information Systems Facility,WSMR,,,,osm,,False,False
+us-0468,US,42.9972167,-77.6458295,1,"Landmax Data Systems, Inc",,,,,osm,,False,False
+us-0469,US,29.4279476,-98.87664843333334,3,Microsoft SAT 80,Microsoft,,,,osm,,False,False
+us-0470,US,46.9399928,-67.9055877,1,Datacenter,,,,,osm,,False,False
+us-0471,US,29.9451277,-95.4241979,1,Data Foundry,,,,,osm,,False,False
+us-0472,US,31.513586266666664,-103.44877673333333,3,IONIC Digital Cedarvale,IONIC Digital,,,,osm,,False,False
+us-0473,US,41.271557765625,-79.81339873125,32,,,,,,osm,,False,False
+us-0474,US,44.9793795,-93.2263894,1,Advanced Operations Center,University of Minnesota,,,,osm,,False,False
+us-0475,US,41.9929788,-86.0984691,1,,,,,,osm,,False,False
+us-0476,US,48.1462599,-103.7727866,1,Atlas Powr Williston Datacenter,Atlas Power Holdings (ND) LLC,,,2023.0,osm,derivada_dynamic_world,False,True
+us-0477,US,31.10356925,-103.2384625,2,,,,,,osm,,False,False
+us-0478,US,40.0444893,-74.27913129999999,2,,,,,,osm,,False,False
+us-0479,US,42.9876268,-72.5517562,1,,The Putney School,,,,osm,,False,False
+us-0480,US,39.4275129,-75.0168617,1,DataOne Vineland,Nebius,,,,osm,,False,False
+us-0481,US,32.8991167,-97.3889496,1,,CyrusOne,,,,osm,,False,False
+us-0482,US,41.5990376,-73.8821955,1,,CyrusOne,,,,osm,,False,False
+us-0483,US,45.5340587,-122.9558975,1,OVHcloud - Hillsboro,OVHcloud,,,,osm,,False,False
+us-0484,US,41.4648153,-75.1294195,1,SES - Hawley Earth Station,SES,,,,osm,,False,False
+us-0485,US,42.5334813,-83.1774894,1,Liberty Center One,,,,,osm,,False,False
+us-0486,US,40.6437889,-74.2854476,1,Barclays Datacenter,Barclays,,,,osm,,False,False
+us-0487,US,39.1402303,-76.6064303,1,CyberNAP Glen Burnie,AiNET,,,,osm,,False,False
+us-0488,US,46.8151017,-96.8443142,1,Dakota Carrier Network,,,,,osm,,False,False

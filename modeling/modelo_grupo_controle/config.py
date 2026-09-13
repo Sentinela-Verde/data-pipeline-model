@@ -25,7 +25,7 @@ FEATURES_CIDADE = [
     "pct_va_agropecuaria",
     "pct_impostos",
 ]
-N_SIMILARES = 3          # quantos municípios similares salvar por município
+N_SIMILARES = 5          # quantos municípios similares salvar por município
 MODO_REGIAO = "mesma"    # "mesma" = KNN só dentro da mesma região; outro valor = Brasil inteiro
 
 MUNICIPIOS_SIMILARES_CSV = RAIZ_PROJETO / "data" / "silver" / "municipios_com_cidades_similares.csv"

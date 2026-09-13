@@ -1,0 +1,10 @@
+name_datacenter,primeiro_ano_pre_obra,primeiro_ano_inicio_obra,primeiro_ano_durante_obra,primeiro_ano_fim_obra,primeiro_ano_pos_obra,ano_operacional_referencia,diferenca_anos_fim_obra
+ASAP SP1,,,,2017.0,2018.0,2022,-5.0
+Ascenty - Hortolandia HTL5,2016.0,,,2021.0,2022.0,2023,-2.0
+Ascenty - Jundiai JDI2,,,,2018.0,2019.0,2020,-2.0
+Ascenty - Paulinia PLN1,2023.0,,2016.0,,,2019,
+Equinix SP5x,2016.0,,,2024.0,2025.0,2022,2.0
+ODATA RJ01,,,,2017.0,2018.0,2025,-8.0
+ODATA SP02 DC1,,,2016.0,2024.0,2025.0,2020,4.0
+Quântico Data Center,2023.0,,2016.0,,,2021,
+TO HOST Data Centers,,,,2017.0,2018.0,2023,-6.0
