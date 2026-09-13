@@ -1,0 +1,100 @@
+name_datacenter,ano,ano_operacional_referencia,Construção,Grama,Solo exposto,Vegetação densa,fase
+ASAP SP1,2016,2022,83.89,7.56,6.74,1.82,Indefinido
+ASAP SP1,2017,2022,90.2,6.67,1.46,1.68,Fim de obra
+ASAP SP1,2018,2022,89.66,6.49,2.46,1.39,Pós-obra
+ASAP SP1,2019,2022,86.88,9.52,1.32,2.28,Pós-obra
+ASAP SP1,2020,2022,89.23,7.59,1.6,1.57,Pós-obra
+ASAP SP1,2021,2022,87.38,8.63,2.1,1.89,Pós-obra
+ASAP SP1,2022,2022,85.88,10.05,1.96,2.1,Pós-obra
+ASAP SP1,2023,2022,88.31,7.7,1.57,2.42,Pós-obra
+ASAP SP1,2024,2022,85.17,7.81,4.21,2.82,Pós-obra
+ASAP SP1,2025,2022,83.21,13.48,1.18,2.14,Pós-obra
+ASAP SP1,2026,2022,83.14,11.91,2.71,2.25,Pós-obra
+Ascenty - Hortolandia HTL5,2016,2023,29.91,67.34,1.53,1.21,Pré-obra
+Ascenty - Hortolandia HTL5,2017,2023,27.49,65.1,2.14,5.28,Pré-obra
+Ascenty - Hortolandia HTL5,2018,2023,47.99,44.49,5.45,2.07,Pré-obra
+Ascenty - Hortolandia HTL5,2019,2023,28.59,66.67,2.39,2.35,Pré-obra
+Ascenty - Hortolandia HTL5,2020,2023,29.06,62.5,1.96,6.49,Pré-obra
+Ascenty - Hortolandia HTL5,2021,2023,62.21,29.38,6.81,1.6,Fim de obra
+Ascenty - Hortolandia HTL5,2022,2023,47.27,27.34,23.53,1.85,Pós-obra
+Ascenty - Hortolandia HTL5,2023,2023,53.33,31.94,12.55,2.17,Pós-obra
+Ascenty - Hortolandia HTL5,2024,2023,53.08,31.19,12.01,3.71,Pós-obra
+Ascenty - Hortolandia HTL5,2025,2023,61.78,27.27,6.38,4.56,Pós-obra
+Ascenty - Hortolandia HTL5,2026,2023,64.46,28.06,2.85,4.63,Pós-obra
+Ascenty - Jundiai JDI2,2016,2020,48.91,34.33,6.84,9.91,Indefinido
+Ascenty - Jundiai JDI2,2017,2020,48.31,31.59,5.17,14.94,Indefinido
+Ascenty - Jundiai JDI2,2018,2020,58.47,21.46,5.1,14.97,Fim de obra
+Ascenty - Jundiai JDI2,2019,2020,56.33,23.99,2.67,17.01,Pós-obra
+Ascenty - Jundiai JDI2,2020,2020,60.46,19.5,3.32,16.72,Pós-obra
+Ascenty - Jundiai JDI2,2021,2020,57.29,27.49,3.89,11.34,Pós-obra
+Ascenty - Jundiai JDI2,2022,2020,57.47,23.24,2.46,16.83,Pós-obra
+Ascenty - Jundiai JDI2,2023,2020,55.65,23.64,1.43,19.29,Pós-obra
+Ascenty - Jundiai JDI2,2024,2020,60.53,17.9,3.1,18.47,Pós-obra
+Ascenty - Jundiai JDI2,2025,2020,52.19,27.27,2.03,18.5,Pós-obra
+Ascenty - Jundiai JDI2,2026,2020,51.34,28.77,1.07,18.82,Pós-obra
+Ascenty - Paulinia PLN1,2016,2019,34.3,47.24,16.58,1.89,Durante obra
+Ascenty - Paulinia PLN1,2017,2019,25.95,49.7,20.57,3.78,Durante obra
+Ascenty - Paulinia PLN1,2018,2019,34.58,33.65,29.16,2.6,Durante obra
+Ascenty - Paulinia PLN1,2019,2019,35.37,43.17,18.89,2.57,Durante obra
+Ascenty - Paulinia PLN1,2020,2019,42.42,33.48,21.75,2.35,Durante obra
+Ascenty - Paulinia PLN1,2021,2019,36.33,40.68,19.89,3.1,Durante obra
+Ascenty - Paulinia PLN1,2022,2019,39.29,43.46,13.12,4.14,Durante obra
+Ascenty - Paulinia PLN1,2023,2019,39.36,48.38,8.34,3.92,Pré-obra
+Ascenty - Paulinia PLN1,2024,2019,30.91,36.36,25.6,7.13,Durante obra
+Ascenty - Paulinia PLN1,2025,2019,46.2,35.86,11.87,6.06,Durante obra
+Ascenty - Paulinia PLN1,2026,2019,40.75,42.39,11.12,5.74,Durante obra
+Equinix SP5x,2016,2022,43.66,44.26,3.78,8.3,Pré-obra
+Equinix SP5x,2017,2022,43.84,42.09,2.56,11.52,Pré-obra
+Equinix SP5x,2018,2022,50.53,34.63,1.79,13.06,Pré-obra
+Equinix SP5x,2019,2022,37.64,43.31,1.61,17.44,Pré-obra
+Equinix SP5x,2020,2022,48.6,32.25,5.04,14.11,Pré-obra
+Equinix SP5x,2021,2022,47.76,35.15,4.24,12.85,Pré-obra
+Equinix SP5x,2022,2022,48.49,33.33,2.03,16.14,Pré-obra
+Equinix SP5x,2023,2022,47.83,34.0,1.37,16.81,Pré-obra
+Equinix SP5x,2024,2022,52.94,31.83,1.61,13.62,Fim de obra
+Equinix SP5x,2025,2022,44.99,35.19,0.98,18.84,Pós-obra
+Equinix SP5x,2026,2022,45.52,37.11,0.53,16.84,Pós-obra
+ODATA RJ01,2016,2025,0.0,0.0,0.0,0.0,Indefinido
+ODATA RJ01,2017,2025,84.67,14.76,0.46,0.11,Fim de obra
+ODATA RJ01,2018,2025,75.97,20.25,2.28,1.5,Pós-obra
+ODATA RJ01,2019,2025,81.5,16.08,1.46,0.96,Pós-obra
+ODATA RJ01,2020,2025,86.56,11.12,2.0,0.32,Pós-obra
+ODATA RJ01,2021,2025,78.43,16.79,4.1,0.68,Pós-obra
+ODATA RJ01,2022,2025,73.69,14.9,10.41,1.0,Pós-obra
+ODATA RJ01,2023,2025,80.96,9.48,8.91,0.64,Pós-obra
+ODATA RJ01,2024,2025,84.39,6.42,8.98,0.21,Pós-obra
+ODATA RJ01,2025,2025,82.53,10.66,5.99,0.82,Pós-obra
+ODATA RJ01,2026,2025,82.75,12.51,4.1,0.64,Pós-obra
+ODATA SP02 DC1,2016,2020,39.9,35.7,19.55,4.86,Durante obra
+ODATA SP02 DC1,2017,2020,38.92,33.74,21.54,5.8,Durante obra
+ODATA SP02 DC1,2018,2020,39.65,29.13,24.3,6.92,Durante obra
+ODATA SP02 DC1,2019,2020,42.48,28.57,23.18,5.77,Durante obra
+ODATA SP02 DC1,2020,2020,44.65,25.91,24.44,5.0,Durante obra
+ODATA SP02 DC1,2021,2020,48.11,25.84,22.24,3.81,Durante obra
+ODATA SP02 DC1,2022,2020,44.51,27.66,22.66,5.17,Durante obra
+ODATA SP02 DC1,2023,2020,44.83,30.21,20.24,4.72,Durante obra
+ODATA SP02 DC1,2024,2020,53.32,16.57,25.7,4.41,Fim de obra
+ODATA SP02 DC1,2025,2020,54.06,16.64,25.56,3.74,Pós-obra
+ODATA SP02 DC1,2026,2020,51.36,31.01,11.4,6.22,Pós-obra
+Quântico Data Center,2016,2021,22.73,17.25,27.68,32.34,Durante obra
+Quântico Data Center,2017,2021,27.25,13.56,29.05,30.14,Durante obra
+Quântico Data Center,2018,2021,33.43,21.4,23.4,21.77,Durante obra
+Quântico Data Center,2019,2021,50.25,20.64,10.54,18.58,Durante obra
+Quântico Data Center,2020,2021,44.07,18.01,18.25,19.67,Durante obra
+Quântico Data Center,2021,2021,50.32,18.98,12.36,18.34,Durante obra
+Quântico Data Center,2022,2021,42.01,24.36,8.67,24.96,Indefinido
+Quântico Data Center,2023,2021,43.27,34.16,4.55,18.01,Pré-obra
+Quântico Data Center,2024,2021,40.74,37.92,3.09,18.25,Pré-obra
+Quântico Data Center,2025,2021,42.14,42.97,0.86,14.02,Pré-obra
+Quântico Data Center,2026,2021,34.36,46.0,1.43,18.21,Pré-obra
+TO HOST Data Centers,2016,2023,0.0,0.0,0.0,0.0,Indefinido
+TO HOST Data Centers,2017,2023,73.38,11.54,15.08,0.0,Fim de obra
+TO HOST Data Centers,2018,2023,65.08,17.04,17.8,0.08,Pós-obra
+TO HOST Data Centers,2019,2023,72.17,13.54,14.29,0.0,Pós-obra
+TO HOST Data Centers,2020,2023,74.55,12.82,12.48,0.15,Pós-obra
+TO HOST Data Centers,2021,2023,76.47,11.88,11.31,0.34,Pós-obra
+TO HOST Data Centers,2022,2023,79.83,11.99,7.88,0.3,Pós-obra
+TO HOST Data Centers,2023,2023,77.26,12.78,9.62,0.34,Pós-obra
+TO HOST Data Centers,2024,2023,73.94,14.63,11.01,0.41,Pós-obra
+TO HOST Data Centers,2025,2023,75.6,13.31,10.71,0.38,Pós-obra
+TO HOST Data Centers,2026,2023,77.98,13.01,8.67,0.34,Pós-obra

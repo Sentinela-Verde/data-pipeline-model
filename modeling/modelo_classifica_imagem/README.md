@@ -176,6 +176,29 @@ só pra comparar contra a versão de 500m sem sobrescrever nada dela (ver
 pra como gerar os GeoTIFFs de entrada). `classification_obra.py` e `labels_mapbiomas.py` são
 compartilhados entre as duas versões (não dependem do tamanho da caixa).
 
+## Teste paralelo: Sentinel-2 em vez de Landsat
+
+`config_obra_sentinel2.py`, `step_classificacao_obra_sentinel2.py` e
+`deteccao_fases_obra_sentinel2.py` são a mesma ideia, mas trocando o sensor: apontam pra
+`data/raw/imagens_satelite_sentinel2_obra/`, gerado por
+[`extract/imagens_satelite/sentinel2`](../../extract/imagens_satelite/sentinel2/README.md).
+Motivação: resolução nativa de 10m (vs 30m do Landsat) — numa caixa de mesmo tamanho (500m),
+~9x mais pixel de textura por imagem, o que pode ajudar a separar o prédio do entorno já
+urbanizado sem precisar encolher a caixa como no teste de 300m.
+
+`classification_obra.py`/`labels_mapbiomas.py`/a lógica de `deteccao_fases_obra.py` são
+100% compartilhadas com os fluxos Landsat — os índices são calculados por posição na pilha de
+bandas (azul, verde, vermelho, NIR, SWIR1, SWIR2), e a ordem exportada pelo Sentinel-2
+(`B2,B3,B4,B8,B11,B12`) já bate com essa convenção, sem adaptação nenhuma. Os limiares em
+`config_obra_sentinel2.py`/`deteccao_fases_obra_sentinel2.py` começam iguais aos já
+calibrados pro Landsat 500m, só como ponto de partida — a mistura de classe por pixel muda
+bastante numa resolução tão mais fina, então recalibre antes de confiar nos resultados (ver
+docstring de `deteccao_fases_obra_sentinel2.py`).
+
+Ressalva: MapBiomas é nativo 30m — exportado na escala do Sentinel-2 (10m) pra alinhar
+pixel a pixel com o resto do feature stack, cada pixel MapBiomas vira um bloco ~3x3 no
+rótulo-semente (reamostragem, não um gabarito mais fino de verdade).
+
 ## Limitações conhecidas
 
 - O treino usa só o ano de referência como rótulo — o WorldCover não tem uma versão

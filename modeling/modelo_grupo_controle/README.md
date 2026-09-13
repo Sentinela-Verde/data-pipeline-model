@@ -46,10 +46,10 @@ grupo, usando o perfil médio 2016-2021 (`config.ANOS_ANALISE`) de:
 - `pct_va_servicos`, `pct_va_industria`, `pct_va_agropecuaria` (vocação econômica)
 - `pct_impostos`
 
-Salva, para cada município, os `config.N_SIMILARES` (padrão: 3) municípios
+Salva, para cada município, os `config.N_SIMILARES` (padrão: 5) municípios
 mais próximos, com um `percentual_similaridade` (`exp(-distância/2) * 100` —
 100% = idêntico, cai exponencialmente com a distância Z-Score). Só o mais
-próximo (`id_municipio_similar_1`) é usado no step2 hoje; os outros dois
+próximo (`id_municipio_similar_1`) é usado no step2 hoje; os outros quatro
 ficam disponíveis pra quando o pipeline passar a suportar múltiplos controles
 por data center (ver item 8 do guia de estrutura de dados).
 

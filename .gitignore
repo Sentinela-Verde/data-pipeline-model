@@ -17,6 +17,9 @@ service-account*.json
 .env.*
 !.env.example
 
+# Cache de downloads brutos (regenerável rodando os scripts de novo)
+data/raw/aneel_cache/
+
 # SO / editor
 .DS_Store
 Thumbs.db

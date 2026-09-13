@@ -1,0 +1,31 @@
+{
+  "name_datacenter": "Qu\u00e2ntico Data Center",
+  "lat": -29.904007,
+  "lon": -51.128381,
+  "year_list": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "bands": [
+    "B2",
+    "B3",
+    "B4",
+    "B8",
+    "B11",
+    "B12"
+  ],
+  "buffer_m": 250,
+  "image_size_m": 500,
+  "scale": 10,
+  "crs": "EPSG:4326",
+  "sensor": "Sentinel-2 SR Harmonized"
+}
